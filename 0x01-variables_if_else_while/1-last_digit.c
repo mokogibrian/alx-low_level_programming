@@ -8,7 +8,7 @@
  *
  * Description: Prints value of last digit of n
  *
- *Return-Always zero (Success)
+ *return - Always zero (Success)
  */
 
 int main(void)
