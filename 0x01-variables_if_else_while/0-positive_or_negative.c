@@ -5,8 +5,8 @@
 
 /**
  * Main - Program entry point
- * 
- * Description - Prints whether the value of last digit of n is greater than 5, less than 6 or is 0. 
+ *
+ * Description - Prints whether the value of last digit of n is greater than 5, less than 6 or is 0.
  *
  * Return = Always 0(Success)
  */
@@ -21,7 +21,7 @@ int main(void)
 		printf("%d is positive\n", n);
 	else if  (n == 0)
 		printf("%d is zero\n", n);
-	else 
+	else
 		printf("%d is negative\n", n);
 	return (0);
 }
