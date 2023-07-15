@@ -4,7 +4,7 @@
 #include <math.h>
 
 /**
- *main-Entry point for program
+ *main - Entry point for program
  *
  * Description: Prints value of last digit of n
  *
