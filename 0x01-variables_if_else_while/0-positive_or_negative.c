@@ -4,11 +4,11 @@
 #include <math.h>
 
 /**
- * Main - Program entry point
+ *main - Program entry point
  *
- * Description - Prints value of n:positive, negative, zero
+ *Description - Prints value of n:positive, negative, zero
  *
- * Return: Always 0(Success)
+ *Return: Always 0(Success)
  */
 
 int main(void)
