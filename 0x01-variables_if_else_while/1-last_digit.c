@@ -11,7 +11,7 @@
  *return - Always zero (Success)
  */
 
-int main(void)
+int main(void) /*Entry point for program*/
 {
 	int n, last_digit;
 
