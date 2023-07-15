@@ -8,10 +8,10 @@
  *
  * Description: Prints value of last digit of n
  *
- *return - Always zero (Success)
+ * Return: Always 0 (Success)
  */
 
-int main(void) /*Entry point for program*/
+int main(void) /* Entry point for program*/
 {
 	int n, last_digit;
 
