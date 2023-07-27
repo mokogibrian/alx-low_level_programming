@@ -7,20 +7,20 @@
  * Return: string concatenated
  */
 
-char* _strcat(char* dest, char* src)
+char *_strcat(char *dest, char *src)
 {
-	char* ptr = dest; /* Store the starting address of dest */
+	char *ptr = dest; /* Store the starting address of dest */
 
-	while (*ptr != '\0'){
-	ptr++;
-	}	
+	while (*ptr != '\0')
+		ptr++;
 
-	while (*src != '\0'){
+	while (*src != '\0')
+	{
 	*ptr = *src;
 	ptr++;
 	src++;
 	}
 
 	*ptr = '\0';
-	return dest;
+	return (dest);
 }
