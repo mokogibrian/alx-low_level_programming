@@ -1,11 +1,11 @@
 #include "main.h"
 
-/* main - concatenates two strings
-*
-* *dest- string pointer
-* *src- string pointer
-* Return: Dest
-*/
+/**
+ * _strcat - concatenates two strings
+ * @dest: destination
+ * @src: source string
+ * Return: string concatenated
+ */
 
 char* _strcat(char* dest, char* src) {
 	char* ptr = dest; /* Store the starting address of dest */
